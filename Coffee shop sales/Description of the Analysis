@@ -1,0 +1,15 @@
+☕ Coffee Shop Sales Analysis using SQL
+
+This project focuses on analyzing coffee shop sales data using SQL. It includes various queries to uncover insights such as:
+
+Total sales and revenue
+Best-selling products
+Monthly and daily sales trends
+Customer purchasing patterns
+The dataset contains transaction-level data, including product names, quantities sold, prices, and dates.
+
+📌 Tools Used:
+MySQL
+Sample CSV dataset
+
+This project is a beginner-friendly attempt to explore real-world business data using SQL for data-driven decision making.
