@@ -1,0 +1,29 @@
+🛒 Walmart Sales Data Analysis using SQL
+
+This project explores Walmart sales data through SQL queries to extract meaningful business insights. Key areas of analysis include:
+
+
+Overall and category-wise sales performance
+
+
+Monthly and weekday trends
+
+
+Customer behavior by branch and payment method
+
+
+Product line performance
+
+
+The dataset includes transactional details such as invoice ID, branch, customer type, product line, total amount, and timestamps.
+
+
+📌 Tools Used:
+
+MySQL
+
+
+Public Walmart sales dataset (CSV)
+
+
+This beginner-friendly project helps understand how SQL can be used to analyze and summarize large retail datasets efficiently.
