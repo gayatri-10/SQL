@@ -1,29 +1,26 @@
-☕ Coffee Shop Sales Analysis using SQL
+🧠 SQL Projects & Practice Repository
 
-This project focuses on analyzing coffee shop sales data using SQL. It includes various queries to uncover insights such as:
-
-
-Total sales and revenue
+This repository contains beginner-friendly SQL projects and practice work focused on real-world datasets and business scenarios. The goal is to strengthen SQL skills through hands-on data exploration and analysis.
 
 
-Best-selling products
+📂 Included Projects:
+
+☕ Coffee Shop Sales Analysis
+
+Analyzes product-wise and time-based sales trends using SQL queries on a coffee shop dataset.
 
 
-Monthly and daily sales trends
+🛒 Walmart Sales Data Analysis
+
+Extracts retail insights like category performance, customer types, and sales trends from Walmart’s transactional data.
 
 
-Customer purchasing patterns
-
-
-The dataset contains transaction-level data, including product names, quantities sold, prices, and dates.
-
-
-📌 Tools Used:
+🛠️ Tools Used:
 
 MySQL
 
 
-Sample CSV dataset
+Sample datasets (CSV format)
 
 
-This project is a beginner-friendly attempt to explore real-world business data using SQL for data-driven decision making.
+More datasets and SQL analysis projects will be added as I progress.
